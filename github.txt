@@ -1,0 +1,25 @@
+FTP
+Transmision de archivos 
+hosting barato normal --> /public_html/ <--FTP
+    index.php
+    images
+    leonidas.jpg
+ www.dogecoin.com
+
+ SISTEMA DE CONTROL DE VERSIONES
+
+ SNV: Subversion / Mercurial / TFS / CVS / GIFT
+ Github
+ 1. Red Social de programadores 
+ 2. Web / Apps
+ 3. Mucho mas facil
+
+ ====
+
+ Repositorio de codigo GITHUB (master)
+
+1.Multiples versiones del mismo codigo 
+2.Cambio Delta
+	 base de datos atomica del codigo 
+	3 historial de archivos
+	4 multiples personas sobre el mismo archivo
