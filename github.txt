@@ -4,7 +4,7 @@ hosting barato normal --> /public_html/ <--FTP
     index.php
     images
     leonidas.jpg
- www.dogecoin.com
+ www.luchin.com
 
  SISTEMA DE CONTROL DE VERSIONES
 
